@@ -7,7 +7,7 @@ ooooooooo.               ooooooooo.                               oooooooooooo
  888            `888'     888         d8(  888  o.  )88b o.  )88b  888         888   888  888     `88bod8P'  888    .o 
 o888o            .8'     o888o        `Y888""8o 8""888P' 8""888P' o888o        `Y8bod8P' d888b    `8oooooo.  `Y8bod8P' 
              .o..P'                                                                               d"     YD            
-             `Y8P'                                      1.0.0                                     "YoooooP'            
+             `Y8P'                                      1.0.1                                     "YoooooP'            
 _______________________________________________________________________________________________________________________                                                                                                                       
 
 This is my first attempt to create a password generator coded in Python, I had challenged myself to build it by just 
