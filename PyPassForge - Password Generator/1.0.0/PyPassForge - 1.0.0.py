@@ -23,13 +23,13 @@ def main():
         # Password lenght error loop
         while True:
             try:
-                lenght = int(input("Please, enter the lenght of the password to generate [8 - 16]: "))
+                lenght = int(input("Please, enter the lenght of the password to generate [12 - 24]: "))
                 break
             except ValueError:
                 print("Invalid input. Please enter a valid number!")
         
         # Lenght check
-        if lenght < 8 or lenght > 16:
+        if lenght < 12 or lenght > 24:
             print("Invalid input, Please enter a valid number!")
             continue
         break
