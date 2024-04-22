@@ -17,7 +17,7 @@ def main():
     pwd = ""
     # Welcome
     clear()
-    print("--------------------------------------\nPyPassForge 1.0.0 - By Alejandro Romeo\n--------------------------------------\n")
+    print("--------------------------------------\nPyPassForge 1.0.1 - By Alejandro Romeo\n--------------------------------------\n")
 
     while True:
         # Password lenght error loop
