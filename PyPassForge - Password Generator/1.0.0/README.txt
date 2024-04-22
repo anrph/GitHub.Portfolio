@@ -10,7 +10,7 @@ o888o            .8'     o888o        `Y888""8o 8""888P' 8""888P' o888o        `
              `Y8P'                                      1.0.0                                     "YoooooP'            
 _______________________________________________________________________________________________________________________                                                                                                                       
 
-This is my first attempt to create a password generator codede in Python, I had challenged myself to build it by just 
+This is my first attempt to create a password generator coded in Python, I had challenged myself to build it by just 
 using my current knowledge, without following any tutorial on the matter.
 
 
@@ -37,4 +37,3 @@ using my current knowledge, without following any tutorial on the matter.
 
 
 PyPassForge 1.0.0    |    By Alejandro Romeo    |    15.3.2024
-
