@@ -78,35 +78,36 @@ while True:
 
     if user_input.isdigit():
         input_number = int(user_input)
-    else:
-        pass
+        if input_number >= 8 and input_number <= 30:
+            pwd_lenght = input_number
 
-    if user_input == "":
-        continue
-
-    if input_number >= 8 and input_number <= 30:
-        pwd_lenght = input_number
-
-    if input_number == 1:
-        if abc_status == "on":
-            abc_status = "off"
-        else:
-            abc_status = "on"
-    
-    if input_number == 2:
-        if ABC_status == "on":
-            ABC_status = "off"
-        else:
-            ABC_status = "on"
+        if input_number == 1:
+            if abc_status == "on":
+                abc_status = "off"
+            else:
+                abc_status = "on"
         
-    if input_number == 3:
-        if num_status == "on":
-            num_status = "off"
-        else:
-            num_status = "on"
-    
-    if input_number == 4:
-        if sym_status == "on":
-            sym_status = "off"
-        else:
-            sym_status = "on"
+        if input_number == 2:
+            if ABC_status == "on":
+                ABC_status = "off"
+            else:
+                ABC_status = "on"
+            
+        if input_number == 3:
+            if num_status == "on":
+                num_status = "off"
+            else:
+                num_status = "on"
+        
+        if input_number == 4:
+            if sym_status == "on":
+                sym_status = "off"
+            else:
+                sym_status = "on"
+
+    else:
+        user_input = user_input.lower()
+        if user_input == "":
+            continue
+        if user_input == "q":
+            quit()
