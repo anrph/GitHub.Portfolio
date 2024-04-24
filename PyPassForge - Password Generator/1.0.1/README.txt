@@ -36,4 +36,4 @@ using my current knowledge, without following any tutorial on the matter.
   Use generated passwords responsibly and avoid sharing them with unauthorized individuals.
 
 
-PyPassForge 1.0.0    |    By Alejandro Romeo    |    15.3.2024
+PyPassForge 1.0.1    |    By Alejandro Romeo    |    15.3.2024
