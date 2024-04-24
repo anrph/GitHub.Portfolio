@@ -23,11 +23,11 @@ using my current knowledge, without following any tutorial on the matter.
 * No additional dependencies required
 
 ----- USAGE -----
-1. Clone or download the PyPassForge_1.0.0.py script to your local machine.
+1. Clone or download the PyPassForge.py script to your local machine.
 2. Open a terminal or command prompt.
-3. Navigate to the directory where password_generator.py is located.
+3. Navigate to the directory where PyPassForge.py is located.
 4. Run the script by executing the following command:
-	python password_generator.py
+	python PyPassForge.py
 5. Enter the desired length of the password.
 6. Press ENTER to keep generating new passwords.
 
