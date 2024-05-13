@@ -126,7 +126,7 @@ result = ""
 
 while True:
     clear()
-    print(f"{CYAN}•--------------------------------------•\n PyPassForge 2.0.0 - By Alejandro Romeo\n•--------------------------------------•{RESET}")
+    print(f"{CYAN}•--------------------------------------•\n PyPassForge 2.1.1 - By Alejandro Romeo\n•--------------------------------------•{RESET}")
     print_status()
     print("\nPress ENTER to generate a password")
 
