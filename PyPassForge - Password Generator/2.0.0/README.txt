@@ -7,7 +7,7 @@ ooooooooo.               ooooooooo.                               oooooooooooo
  888            `888'     888         d8(  888  o.  )88b o.  )88b  888         888   888  888     `88bod8P'  888    .o 
 o888o            .8'     o888o        `Y888""8o 8""888P' 8""888P' o888o        `Y8bod8P' d888b    `8oooooo.  `Y8bod8P' 
              .o..P'                                                                               d"     YD            
-             `Y8P'                                      2.0.0                                     "YoooooP'            
+             `Y8P'                                      2.1.1                                     "YoooooP'            
 _______________________________________________________________________________________________________________________                                                                                                                       
 
 ----- OVERVIEW -----
@@ -32,6 +32,7 @@ ________________________________________________________________________________
 * Input 3 to turn on/off the '123' characters.
 * Input 4 to turn on/off the '#$&' characters.
 * Input 8 to 30 for password lenght.
+* Input s to save the password.
 * Input q to quit.
 
 ----- NOTE -----
