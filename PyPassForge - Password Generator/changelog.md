@@ -1,4 +1,21 @@
-# PyPassForge
+# PyPassForge - Python Password Generator
+
+###### [2.1.1] - 1.5.2024
+
+**FIXED**
++  _"PWD SAVED" message will no longer be saved in the key file._
+
+---
+
+###### [2.1.0] - 29.4.2024
+
+**ADDED**
++ _Generated Passwords can now be saved on a key file._
+
+**CHANGED**
++ _Code was cleaned and user input has now its own def._
+
+---
 
 ###### [2.0.0] - 24.4.2024  
 
@@ -13,9 +30,10 @@
 ###### [1.0.1] - 5.3.2024  
 
 CHANGED
-+ _The password length has been changed from [8 - 16] to [8 - 30]._
++ _The password length has been changed from (8 - 16) to (8 - 30)._
 ---
 
 ###### [1.0.0] - 29.2.2024  
 + _Release Version._
 ---
+> Created by Alejandro Romeo
