@@ -31,13 +31,8 @@ ________________________________________________________________________________
 * Input 2 to turn on/off the 'ABC' characters.
 * Input 3 to turn on/off the '123' characters.
 * Input 4 to turn on/off the '#$&' characters.
-* Input 8 to 30 for password lenght.
+* Input 8 to 30 for password length.
 * Input s to save the password.
 * Input q to quit.
-
------ NOTE -----
-* Ensure that you remember or securely store generated passwords, as they are not stored or saved by the script.
-  Use generated passwords responsibly and avoid sharing them with unauthorized individuals.
-
 
 PyPassForge 2.0.0    |    By Alejandro Romeo    |    24.4.2024
