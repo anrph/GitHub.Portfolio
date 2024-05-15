@@ -1,5 +1,14 @@
 # PyPassForge - Python Password Generator
 
+###### [3.0.0] - 15.5.2024
+
+**ADDED**
++ _New Binary System to enable/disable character types from the password generator._
++ _Ability to remove specific characters from the password generator._
+
+**CHANGED**
++ _Code is now cleaner and more professional._
+---
 ###### [2.1.1] - 1.5.2024
 
 **FIXED**
@@ -10,10 +19,10 @@
 ###### [2.1.0] - 29.4.2024
 
 **ADDED**
-+ _Generated Passwords can now be saved on a key file._
++ _Generated Passwords can now be saved on a .key file._
 
 **CHANGED**
-+ _Code was cleaned and user input has now its own def._
++ _Code was cleaned and user input now has its own def._
 
 ---
 
